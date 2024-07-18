@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2881-split-strings-by-separator](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2881-split-strings-by-separator) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [2881-split-strings-by-separator](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2881-split-strings-by-separator) |
 <!---LeetCode Topics End-->
