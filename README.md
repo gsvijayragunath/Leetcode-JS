@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+## Math
+|  |
+| ------- |
+| [2752-sum-multiples](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
