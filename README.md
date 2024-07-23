@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0011-container-with-most-water) |
 | [1651-shuffle-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1944-truncate-sentence) |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2752-sum-multiples](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2752-sum-multiples) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
