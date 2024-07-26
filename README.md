@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
 | [2752-sum-multiples](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2752-sum-multiples) |
 ## Greedy
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
