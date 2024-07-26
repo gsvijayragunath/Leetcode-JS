@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 | [1651-shuffle-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1944-truncate-sentence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 | [2752-sum-multiples](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2752-sum-multiples) |
 ## Greedy
 |  |
@@ -56,8 +58,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
