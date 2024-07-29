@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1954-replace-all-digits-with-characters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2881-split-strings-by-separator) |
