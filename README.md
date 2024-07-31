@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
