@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0485-max-consecutive-ones) |
+| [1031-add-to-array-form-of-integer](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1031-add-to-array-form-of-integer) |
 | [1651-shuffle-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1944-truncate-sentence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1031-add-to-array-form-of-integer) |
 | [2752-sum-multiples](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/2752-sum-multiples) |
 ## Greedy
 |  |
