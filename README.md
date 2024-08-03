@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0290-word-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1651-shuffle-string](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0290-word-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
