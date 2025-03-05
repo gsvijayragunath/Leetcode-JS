@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gsvijayragunath/Leetcode-JS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gsvijayragunath/Leetcode-JS/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/gsvijayragunath/Vijay-Ragunath-GS/tree/master/0268-missing-number) |
